@@ -3,7 +3,7 @@
 I'm pursuing a B.tech degree in the field of Computer Science & Engineering as well as self-taught concepts in Mobile & Web development. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, tweeting or pushing pixels, you'll find me traveling.
 
 ##
-- 🔭 I’m currently working on [ReactJS](https://reactjs.org) projects .
+- 🔭 I’m currently working on [ReactJS](https://reactjs.org) projects.
 - 🌱 I’m currently learning [Redux](https://redux.js.org).
 - 💬 Read my blogs on [Medium](https://medium.com/@piyush.sinha24).
 ##
