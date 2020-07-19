@@ -5,7 +5,7 @@ I'm pursuing a B.tech degree in the field of Computer Science & Engineering as w
 ##
 - 🔭 I’m currently working on [ReactJS](https://reactjs.org) projects .
 - 🌱 I’m currently learning [Redux](https://redux.js.org).
-- 💬 Read my blogs on [Medium](https://medium.com/@piyush.sinha24)
+- 💬 Read my blogs on [Medium](https://medium.com/@piyush.sinha24).
 
 <img src="https://github-readme-stats.vercel.app/api?username=piyushsinha24&&show_icons=true&title_color=ffffff&icon_color=593d88&text_color=ffffff&bg_color=000000">
 
