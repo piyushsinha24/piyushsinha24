@@ -3,10 +3,11 @@
 I'm pursuing a B.tech degree in the field of Computer Science & Engineering as well as self-taught concepts in Mobile & Web development. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, tweeting or pushing pixels, you'll find me traveling.
 
 ##
+- 🔭 I’m currently working on [ReactJS](https://reactjs.org) projects .
+- 🌱 I’m currently learning [Redux](https://redux.js.org).
+- 💬 Read my blogs on [Medium](https://medium.com/@piyush.sinha24)
 
-- 💻 Incoming Systems Engineer at [Tata Consultancy Services](https://www.tcs.com)
-- 🔭 Currently working with [ReactJS](https://reactjs.org) 
-- 💬 Read out my blogs on [Medium](https://medium.com/@piyush.sinha24)
+<img src="https://github-readme-stats.vercel.app/api?username=piyushsinha24&&show_icons=true&title_color=ffffff&icon_color=593d88&text_color=ffffff&bg_color=000000">
 
 ##
 
