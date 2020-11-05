@@ -5,7 +5,7 @@ I'm a B.Tech graduate in the field of Computer Science & Engineering as well as 
 ##
 - 🔭 I’m currently working on [ReactJS](https://reactjs.org) projects.
 - 🌱 I’m currently learning [Redux](https://redux.js.org).
-- 💬 Read my blogs on [Medium](https://medium.com/@piyush.sinha24).
+- 💬 Read my blogs on [Medium](https://piyush-sinha.medium.com).
 ##
 
 **Languages and Tools:**  
