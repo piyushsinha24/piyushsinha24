@@ -4,7 +4,7 @@ I'm a B.Tech graduate in the field of Computer Science & Engineering as well as 
 
 ##
 - 🔭 I’m currently working on Web Components.
-- 💬 Read my blogs on [Medium](https://piyush-sinha.medium.com) & [Hashnode](https://sinhapiyush.hashnode.dev)
+- 💬 Read my blogs on [Hashnode](https://sinhapiyush.hashnode.dev)
 ##
 
 **Languages and Tools:**  
@@ -19,7 +19,6 @@ I'm a B.Tech graduate in the field of Computer Science & Engineering as well as 
 
 ##
 
-<a href="http://piyushsinha.me" target="_blank"><img src="https://img.shields.io/badge/Website-piyushsinha.me-brightgreen" alt="Website"></a>
 <a href="https://www.linkedin.com/in/devps" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/devps2020" target="_blank"><img src="https://img.shields.io/twitter/follow/devps2020?label=follow&style=social" alt="Twitter"></a>
 
