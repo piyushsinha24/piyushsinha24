@@ -4,7 +4,7 @@ I'm a B.Tech graduate in the field of Computer Science & Engineering as well as 
 
 ##
 - 🔭 I’m currently working on Web Components.
-- 💬 Read my blogs on [Hashnode](https://sinhapiyush.hashnode.dev)
+- 💬 Read my blogs on [Hashnode](https://piyushsinha.tech)
 ##
 
 **Languages and Tools:**  
