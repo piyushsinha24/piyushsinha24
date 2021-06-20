@@ -1,6 +1,6 @@
 # Hello, nerds 👋
 
-I'm a B.Tech graduate in the field of Computer Science & Engineering as well as self-taught concepts in Android & Web development. I enjoy turning complex problems into simple, beautiful and intuitive designs. When I'm not coding, tweeting or pushing pixels, you'll find me traveling. 
+I'm a graduate in the field of Computer Science & Engineering and currently employed as a Frontend Engineer at Tata Consultancy Services. I write blogs on Javascript, React, Web Components and other web technologies.
 
 ##
 - I’m currently working on Web Components.
