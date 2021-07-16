@@ -1,12 +1,14 @@
 # Hello, nerds 👋
 
-I'm a graduate in the field of Computer Science & Engineering and currently employed as a Frontend Engineer at Tata Consultancy Services. I write blogs on Javascript, React, Web Components and other web technologies.
+I'm a graduate in the field of Computer Science & Engineering and currently employed as a Frontend Engineer. I write blogs on Javascript, React, Web Components and other web technologies.
 
 ##
 - I’m currently working on Web Components.
 
-- Read my blogs on [Hashnode](https://piyushsinha.tech) & [Dev Community](https://dev.to/sinhapiyush).
+- Read my blogs on [Hashnode](https://piyushsinha.tech).
 ##
+
+![](https://github-readme-stats.vercel.app/api?username=piyushsinha24&show_icons=true&bg_color=2d333b&title_color=39d353&theme=dark)
 
 **Languages and Tools**  
 
