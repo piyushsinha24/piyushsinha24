@@ -7,7 +7,7 @@ I'm a graduate in the field of Computer Science & Engineering and currently empl
 ##
 - I’m currently working on Web Components.
 
-- Read my blogs on [Hashnode](https://piyushsinha.tech).
+- Read my blogs on [piyushsinha.tech](https://piyushsinha.tech).
 ##
 
 ![](https://github-readme-stats.vercel.app/api?username=piyushsinha24&show_icons=true&bg_color=2d333b&title_color=39d353&theme=dark)
