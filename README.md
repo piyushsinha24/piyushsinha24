@@ -1,4 +1,6 @@
-# Hello, nerds 👋
+# Hey peeps! 👋
+
+Thanks for dropping by. Let me introduce myself.
 
 I'm a graduate in the field of Computer Science & Engineering and currently employed as a Frontend Engineer. I write blogs on Javascript, React, Web Components and other web technologies.
 
