@@ -2,10 +2,7 @@
 
 Thanks for dropping by. Let me introduce myself.
 
-I'm a graduate in the field of Computer Science & Engineering and currently employed as a Frontend Engineer. I write blogs on Javascript, React, Web Components and other web technologies.
-
-##
-- I’m currently working on Web Components.
+I'm a Frontend Developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React and Web Components. I also write blogs on Javascript, React, Web Components and other web technologies.
 
 - Read my blogs on [piyushsinha.tech](https://piyushsinha.tech).
 ##
