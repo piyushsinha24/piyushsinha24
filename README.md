@@ -2,9 +2,10 @@
 
 Thanks for dropping by. Let me introduce myself.
 
-I'm a Frontend Developer with industry experience building web applications. I specialize in JavaScript and have professional experience working with React and Web Components. I also write blogs on Javascript, React, Web Components and other web technologies.
+I am a Frontend Developer with 2+ years of experience developing intuitive and interactive user interfaces that are visually appealing and functional. I specialize in JavaScript and have industry experience working with ReactJS and Web Components.
 
-- Read my blogs on [piyushsinha.tech](https://piyushsinha.tech).
+When not working, I usually spend my time writing tech-related blog posts on my website: [piyushsinha.tech](https://piyushsinha.tech).
+
 ##
 
 ![](https://github-readme-stats.vercel.app/api?username=piyushsinha24&show_icons=true&bg_color=2d333b&title_color=39d353&theme=dark)
