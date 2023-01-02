@@ -1,4 +1,4 @@
-# Hey peeps! 👋
+# Hey guys! 👋
 
 Thanks for dropping by. Let me introduce myself.
 
