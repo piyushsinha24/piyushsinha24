@@ -1,8 +1,8 @@
 # Hey guys! 👋
 
-Thanks for dropping by. Let me introduce myself.
+Thanks for dropping by. Here's something about me:
 
-I am a Frontend Developer with 2+ years of experience developing intuitive and interactive user interfaces that are visually appealing and functional. I specialize in JavaScript and have industry experience working with ReactJS and Web Components.
+Frontend Developer with 3 years of expertise specializing in React.js, Redux, and modern JavaScript (ES6 and above). Proven ability to develop web-based applications using Microfrontend architecture. Adept at converting design mockups into responsive frontend solutions.
 
 When not working, I usually spend my time writing tech-related blog posts on my website: [piyushsinha.tech](https://piyushsinha.tech).
 
